@@ -7,7 +7,6 @@ This is a simple contact manager app using [React Native]() and [Expo Go]().
 2. Edit Contact: Enables you to modify an existing contact’s name or phone number.
 3. Delete Contact: Removes a contact from the list. Uses a confirmation modal for deletion.
 4. Modal:
-- Displays the form inside a popup-like overlay.
 - Used for creating and editing contacts.
 
 ## Screenshots
@@ -38,4 +37,7 @@ This is a simple contact manager app using [React Native]() and [Expo Go]().
 
 </Details>
 
+## Socials:
+- [LinkedIn](https://www.linkedin.com/in/jfmartinz/)
+- [Twitter](https://x.com/jfmartinz)
 
